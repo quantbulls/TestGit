@@ -10,7 +10,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            System.Console.Out.WriteLine("Test again Git ");
+            System.Console.Out.WriteLine("Test afd again Git ");
         }
     }
 }
