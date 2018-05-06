@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestGit
 {
-    class Program
+    class EventHandlerTest
     {
-        static void Main(string[] args)
-        {
-            System.Console.Out.WriteLine("Test again Git ");
-        }
     }
 }
